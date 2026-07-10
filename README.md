@@ -120,6 +120,3 @@ The goal is to create a modular, extensible toolkit that can grow into a complet
 ## Contributing
 
 Suggestions, improvements, and pull requests are always welcome.
-
-
-This project is released under the MIT License.
