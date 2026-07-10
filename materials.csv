@@ -1,0 +1,5 @@
+Material,Yield Strength,Density,E_GPa,Brinell,Poissons
+Steel,250,7850,200,180,0.3
+Aluminium,150,2700,69,95,0.33
+Titanium,880,4500,110,334,0.34
+Cast Iron,170,7200,170,210,0.28
